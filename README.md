@@ -5,6 +5,7 @@ i then created the html which consisted of the div for the quote generator input
 i then used css to style buttons and other content of the html code.i used border box for my box sizing.
 for javascript, i used document.querySelector to grab classes and create variables for the quote,the button and person.
 i then used an array to store the different quotes and author.
-i then used the add event listener object to create a function than would pick a quote using the math.random function and display this quote whenever the button is pressed.
+i then used the add event listener object to create a function than would pick a quote using the math.random function and display this quote whenever the button Is pressed.
+
 
 
